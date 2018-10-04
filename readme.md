@@ -8,5 +8,5 @@ Users upload images and the app generates a GIF img. The image dimensions are ba
 * open source GifCreator class for the image proccessing part.
 
 
-## Runningimmediately.
+## Running immediately.
 You don't need any migration to run the app , since it was created with the only goal to do that simple 'static to GIF' job.
