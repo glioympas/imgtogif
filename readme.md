@@ -6,3 +6,7 @@ Users upload images and the app generates a GIF img. The image dimensions are ba
 
 * dropzone.js library for the drag and drop feature and POST requests to server.
 * open source GifCreator class for the image proccessing part.
+
+
+## Runningimmediately.
+You don't need any migration to run the app , since it was created with the only goal to do that simple 'static to GIF' job.
