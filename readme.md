@@ -1,6 +1,7 @@
 # Static images to an animated GIF image.
 
 Users upload images and the app generates a GIF img. The image dimensions are based on the first image. 
+Contains server validation to avoid big images , or wrong file types.
 
 ## 3rd Party libraries</br>
 
