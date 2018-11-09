@@ -9,7 +9,7 @@
 </head>
 <body>
    
-      <div class="container">
+      <div class="container" >
       	<div class="row">
       		<div class="col-sm-8 offset-sm-2">
       			<h2>Drop your images and generate a GIF image.</h2>
@@ -43,7 +43,7 @@
          
          <div class="row">
 			<footer class="col-sm-8 offset-sm-2">
-				&copy; 2018 George Lioympas - <a href="#">Github Code</a>
+				&copy; 2018 George Lioympas - <a href="https://github.com/glioympas/imgtogif">Github Code</a>
 			</footer>
 		</div>
 	  </div>
